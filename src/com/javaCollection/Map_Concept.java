@@ -26,7 +26,7 @@ public class Map_Concept {
 	for (Map.Entry<Integer, String> entry : map.entrySet()) {
 		int key = entry.getKey();
 		String value = entry.getValue();
-		//System.out.println(key + " - "  + value);
+		System.out.println(key + " - "  + value);
 	}
 	//one more way for running loop
 	System.out.println("----");

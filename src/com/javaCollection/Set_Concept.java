@@ -11,7 +11,7 @@ import java.util.TreeSet;
 public class Set_Concept {
 	public static void main(String[] args) {
 		
-//No order
+//Will print with No order
 		Set<String> set = new HashSet<String>();
 		set.add("BMW");	
 		set.add("BMW");
